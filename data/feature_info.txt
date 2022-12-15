@@ -1,0 +1,6 @@
+Some individuals may choose to begin by using the filter function and sort using the categories indicated: 
+• Level (Beginner, Intermediate, Advanced)
+• U/L/C (U–Upper Body, L–Lower Body, C–Core)
+• P/P (P–Pulling-Type Exercise, P–Pushing-Type Exercise)
+• Modality (FW–Free Weights, C–Cables, M–Machine)
+• Joint (M–Multi-Joint Exercise, S–Single-Joint Exercise)
